@@ -1,28 +1,24 @@
-<p align="center"><img src="assets/hero.webp" alt="Aksesuarlia shown on desktop and mobile" width="100%"></p>
+<a href="https://aksesuarlia.com"><img src="assets/hero.webp" alt="Aksesuarlia presentation: desktop and mobile screens of the live store" width="100%"></a>
 
 # Aksesuarlia
 
-A curated commerce experience for leather bags, natural-stone jewellery, zodiac designs, and steel accessories.
+A boutique store for leather bags, natural-stone jewellery, zodiac designs and steel accessories.
 
-**[Visit live website](https://aksesuarlia.com)**
+**Live:** [aksesuarlia.com](https://aksesuarlia.com) &nbsp;·&nbsp; **More work:** [github.com/mertomeroglu](https://github.com/mertomeroglu)
 
-## Highlights
+### Highlights
 
-- Collection-led discovery for bags, jewellery, and natural stones
-- Search, account, wishlist, and cart entry points
+- Collection-led discovery for bags, jewellery and natural stones
+- Search, account, wishlist and cart entry points
 - Editorial care and material guides
 - Responsive Turkish storefront
 
-## Verified technology
+### Built with
 
-Shopify storefront and Liquid theme technology are confirmed from the live public site and the corresponding local Shopify project.
+Shopify · Liquid
 
-## Live interface
+<p align="center"><a href="https://aksesuarlia.com"><img src="assets/poster.webp" alt="Aksesuarlia portrait presentation with desktop and mobile screens" width="420"></a></p>
 
-<img src="assets/desktop.webp" alt="Aksesuarlia desktop homepage" width="68%"> <img src="assets/mobile.webp" alt="Aksesuarlia mobile homepage" width="27%">
+---
 
-## About this repository
-
-This presentation-only repository contains selected public screenshots, this README, and a small static introduction page. Application source and private configuration are not published here.
-
-Visual content and brand assets remain the property of their respective owners. See [LICENSE](LICENSE).
+<sub>Presentation-only repository: this README and two presentation images built from real product screens. Application source and private configuration are not published here. Visual content and brand assets remain the property of their respective owners — see [LICENSE](LICENSE).</sub>
